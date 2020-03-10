@@ -15,5 +15,12 @@
         </configuration>
       </plugin>
     </plugins>
+    <distributionManagement>
+   <repository>
+     <id>github</id>
+     <name>GitHub OWNER Apache Maven Packages</name>
+     <url>https://github.com/PoornimaPuttaramu/TestProject2</url>
+   </repository>
+</distributionManagement>
   </build>
 </project>
